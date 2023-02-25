@@ -7,7 +7,7 @@
 <br/>
 뉴스나 신문을 보면 다양한 범죄에 관한 내용을 접할 수 있을것이다. 어떻게 하면 나 자신 , 가족 , 친구 등 모두의 안전을 확실하게 보장받을 수 있을까 생각을 하다가 "스마트 얼굴인식 도어락"이라는 주제를 선정하게 되었다. 라즈베리파이를 통한 openCV를 사용하여 사용자의 얼굴을 등록하고 딥러닝 , 머신러닝을 활용하여 등록된 사용자의 얼굴정보와 일치할 경우 도어락이 열리는 스마트 도어락을 설계하였고, 실시간으로 카메라 화면을 볼 수 있어 cctv로도 활용할 수 있도록 기술을 개발하였다. 
 
-<br/>
+<br/><br/><br/>
 
 <h2>하드웨어 개발환경</h2>
 <br/>
@@ -17,6 +17,11 @@
 ![image](https://user-images.githubusercontent.com/106515028/221368926-58aa1805-3b2d-46bf-918a-8481d33a793e.png)
 ![image](https://user-images.githubusercontent.com/106515028/221368937-0c1ebe58-63fa-45b7-9a4f-6f867bee50ba.png)
 ![image](https://user-images.githubusercontent.com/106515028/221369018-1eb5c639-d6cf-410f-9ff5-b91fb2e0a311.png)
+
+<br/><br/><br/>
+
+<h2> 개발환경</h2>
+<br/>
 
 
 

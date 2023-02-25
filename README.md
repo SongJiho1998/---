@@ -14,8 +14,7 @@
 
 <table>
   <tbody>
-  <td><img src="https://user-images.githubusercontent.com/106515028/221369924-e5df43d1-1ddf-4f8f-80f7-2d2f11ee8729.png
-"  width="100px" height="70px"/></td>
+  <td><img src="https://user-images.githubusercontent.com/106515028/221369924-e5df43d1-1ddf-4f8f-80f7-2d2f11ee8729.png"  width="100px" height="70px"/></td>
   <td>라즈베리파이3 b+</td>
   </tbody>
   <tbody>

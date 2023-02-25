@@ -20,23 +20,23 @@
 
 <table>
   <tbody>
-  <td><img src="https://user-images.githubusercontent.com/80880587/221352555-67cd99a1-fe15-41a5-86f5-72525800ad2d.png"  width="100px" height="70px"/></td>
+  <td><img src="https://user-images.githubusercontent.com/106515028/221368829-284d974d-78d9-4091-a2c9-c76803ffbb2b.png"  width="100px" height="70px"/></td>
   <td>라즈베리파이3 b+</td>
   </tbody>
   <tbody>
-  <td><img src="https://user-images.githubusercontent.com/80880587/221352639-b1d1d871-8796-4a4d-aed7-97ca11e53d87.png"  width="100px" height="70px"/></td>
+  <td><img src="https://user-images.githubusercontent.com/106515028/221368910-a89f1ac1-9e9c-4625-a817-61c7dcd093ec.png"  width="100px" height="70px"/></td>
   <td>TTGO LoRa T-Beam V1.0 보드</td>
   </tbody>
   <tbody>
-  <td><img src="https://user-images.githubusercontent.com/80880587/221352682-03724f50-55be-42df-acd9-3bf07ae58e00.png"  width="100px" height="70px"/></td>
+  <td><img src="https://user-images.githubusercontent.com/106515028/221368926-58aa1805-3b2d-46bf-918a-8481d33a793e.png"  width="100px" height="70px"/></td>
   <td>라즈베리파이 카메라모듈 V2, 8MP</td>
   </tbody>
   <tbody>
-  <td><img src="https://user-images.githubusercontent.com/80880587/221352698-bb939c91-aabf-4166-9c4c-8b6a6a0ccde3.png"  width="100px" height="70px"/></td>
+  <td><img src="https://user-images.githubusercontent.com/106515028/221368937-0c1ebe58-63fa-45b7-9a4f-6f867bee50ba.png"  width="100px" height="70px"/></td>
   <td>디지털 접촉식 터치센서 [DFR0030]</td>
   </tbody>
   <tbody>
-  <td><img src="https://user-images.githubusercontent.com/80880587/221352707-c5b04ea6-3fdd-42dd-9edd-6d33d9b2b423.png"  width="100px" height="70px"/></td>
+  <td><img src="https://user-images.githubusercontent.com/106515028/221369018-1eb5c639-d6cf-410f-9ff5-b91fb2e0a311.png"  width="100px" height="70px"/></td>
   <td>GP2Y0A21YK0F 적외선 거리 측정 센서</td>
   </tbody>
 </table>

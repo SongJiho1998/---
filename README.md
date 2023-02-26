@@ -55,8 +55,35 @@
 
 ![구현결과](https://user-images.githubusercontent.com/106515028/221394740-b7dd8c5e-fff6-458c-b0ea-8cf7408c930e.png)
 
+<br/><br/><br/>
 
+<h2>시스템 동작결과</h2>
+<br/>
 
+## :computer: 개발환경
+
+### :computer: 사용 언어
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />	
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+</div>
+
+### :computer: 사용 장치 및 프로그램
+<div>
+  	<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white" />	
+	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
+	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />	
+</div>
+
+### :computer: 서버 통신
+<div>
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+	<img src="https://img.shields.io/badge/Loa-00A98F?style=flat&logo=Lora&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bluetooth-0082FCF?style=flat&logo=Bluetooth&logoColor=white" />
+</div>
 
 
 

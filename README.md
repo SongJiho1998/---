@@ -44,8 +44,19 @@
 
 <br/><br/><br/>
 
-<h2>시스템 설계도</h2>
+<h2>시스템 모델</h2>
 <br/>
+
+![image](https://user-images.githubusercontent.com/106515028/221394640-be077c55-cfff-41db-b8e8-430e29340bb7.png)
+
+<br/><br/><br/>
+
+<h2>시스템 동작결과</h2>
+<br/>
+
+![구현결과](https://user-images.githubusercontent.com/106515028/221394740-b7dd8c5e-fff6-458c-b0ea-8cf7408c930e.png)
+
+
 
 
 

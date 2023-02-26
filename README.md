@@ -53,7 +53,7 @@
 <h2>시스템 동작결과</h2>
 <br/>
 
-![구현결과](https://user-images.githubusercontent.com/106515028/221394740-b7dd8c5e-fff6-458c-b0ea-8cf7408c930e.png)
+![구현결과](https://user-images.githubusercontent.com/106515028/221394951-d66c935f-37fb-4811-8e8d-da06a85d1d6c.png)
 
 <br/><br/><br/>
 

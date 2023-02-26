@@ -40,9 +40,10 @@
 <h2>시스템 설계도</h2>
 <br/>
 
-![image](https://user-images.githubusercontent.com/106515028/221394231-22867bb9-5217-4e30-ab5a-cefd0eb49a4b.png)
-![image](https://user-images.githubusercontent.com/106515028/221394242-6361e324-941b-478a-b1cf-84f7ccd90504.png)
-![image](https://user-images.githubusercontent.com/106515028/221394249-96fa9305-38e3-4f94-90ac-a4ead5e71827.png)
+![설계도](https://user-images.githubusercontent.com/106515028/221394551-f6578117-5ee3-4f20-9e7a-a66828b307b5.png)
+
+
+
 
 
 
